@@ -7,33 +7,21 @@ export interface Contact {
 
 export const contacts: Contact[] = [
     {
-        image: 'assets/images/users/1.jpg',
+        image: 'assets/images/users/Allipera.jpeg',
         class: 'online',
-        name: 'Pavan kumar',
-        email: 'info@wrappixel.com'
+        name: 'Allipera',
+        email: 'allipera@jsw.in'
     },
     {
-        image: 'assets/images/users/2.jpg',
+        image: 'assets/images/users/Visahl_Logistics.jpeg',
         class: 'busy',
-        name: 'Sonu Nigam',
-        email: 'pamela1987@gmail.com'
+        name: 'Visahl',
+        email: 'Vishal@jsw.in'
     },
     {
-        image: 'assets/images/users/4.jpg',
+        image: 'assets/images/users/Kiran_Sir.jpeg',
         class: 'offline',
-        name: 'Pavan kumar',
-        email: 'kat@gmail.com'
-    },
-    {
-        image: 'assets/images/users/5.jpg',
-        class: 'online',
-        name: 'Andrew',
-        email: 'info@wrappixel.com'
-    },
-    {
-        image: 'assets/images/users/6.jpg',
-        class: 'busy',
-        name: 'Jonathan Joe',
-        email: 'jj@gmail.com'
+        name: 'Kiran Sir',
+        email: 'akkidasu.kiran@jsw.in'
     },
 ]

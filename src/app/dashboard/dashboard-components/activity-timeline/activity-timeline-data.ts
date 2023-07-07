@@ -40,15 +40,5 @@ export const activities:Activity[]=[
         buttonColor:''
     
     },
-    {
-        name:'Dhiren Adesara',
-        image:'assets/images/users/4.jpg',
-        commentTime:'7 minute ago',
-        comment:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.',
-    
-        bottomImage:'',
-        buttonColor:'warn'
-    
-    }
 
 ]
